@@ -64,6 +64,3 @@ module.exports = function (propsAPath, propsBPath, success, failure) {
 		success(diffs);
     });
 };
-
-// diff("/home/jacek/.survey", "/home/jacek/.reviews", function(diffs) {console.log(diffs);}, function(errors) {console.log(errors)});
-
