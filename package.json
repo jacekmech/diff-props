@@ -1,0 +1,24 @@
+{
+  "name": "diff-props",
+  "version": "1.0.0",
+  "description": "Compares properties files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacekmech/diff-props.git"
+  },
+  "author": "Jacek Mech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacekmech/diff-props/issues"
+  },
+  "homepage": "https://github.com/jacekmech/diff-props",
+  "dependencies": {
+    "deep-diff": "^0.3.3",
+    "properties": "^1.2.1",
+    "q": "^1.4.1"
+  }
+}
